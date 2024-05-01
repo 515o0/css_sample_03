@@ -1,0 +1,42 @@
+@charset "UTF-8";
+body {
+  background-color: rgb(255, 0, 0);
+}
+ 
+#wrap {
+  width: 960px;
+  margin: auto;
+  background-color: rgb(255, 0, 0);
+}
+ 
+header {
+  font-family: "Cherry Bomb One", system-ui;
+  padding: 40px;
+  height: 80px;
+}
+ 
+nav {
+  font-family: "Cherry Bomb One", system-ui;
+  padding: 8px 40px;
+  background-color: black;
+  color: rgb(255, 0, 0);
+}
+ 
+main {
+  padding: 40px;
+  height : 400px;
+}
+main p {
+  font-family: "Cherry Bomb One", system-ui;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+ 
+footer {
+  font-family: "Cherry Bomb One", system-ui;
+  padding: 40px;
+  height: 40px;
+  background-color : rgb(0, 0, 0);
+  color: rgb(255, 0, 0);
+}
